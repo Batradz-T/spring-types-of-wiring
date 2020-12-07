@@ -18,10 +18,9 @@ public class AppConfig {
     public  Egg6 getEgg(Needle7 needle) {return new Egg6(needle);}
 
     @Bean
-    public  Needle7 getNeedle(Deth8 deth) {return  new Needle7(deth);}
+    public  Needle7 getNeedle(Deth8 death) {return  new Needle7(death);}
 
-    @Bean
-    public  Deth8 getDeth() {return new Deth8();}
+
 
 
 
